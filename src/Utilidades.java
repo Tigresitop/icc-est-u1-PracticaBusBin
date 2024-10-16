@@ -20,6 +20,6 @@ public class Utilidades {
                 alto = centro - 1;
             }
         }
-        return -1; // No encontrado
+        return -1;
     }
 }
